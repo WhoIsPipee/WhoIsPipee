@@ -7,11 +7,11 @@
 <table align="center">
   <tr>
     <td align="center" width="250">
-      <h3>🎓 ingeniero informático</h3>
+      <h3>🎓 Ingeniero Informático</h3>
       <p>Me enfoco en el área de documentación de proyectos TI. Interactúo con clientes para transformar ideas conceptuales en requerimientos funcionales, trabajando en colaboración con mi equipo de desarrollo.</p>
     </td>
     <td align="center" width="250">
-      <h3>💻 Desarrollo frontend</h3>
+      <h3>💻 Desarrollo Frontend</h3>
       <p>Manejo de React, Tailwind, JS y TS.</p>
       <p>Manejo tecnologías como React, Tailwind CSS, JavaScript y TypeScript para crear interfaces limpias, modernas y completamente responsivas, </p>
     </td>
@@ -21,7 +21,7 @@
       <p>Automatización de tareas repetitivas, generación de reportes y creación de planillas de costos. Manejo información eficientemente a través de tablas dinámicas y desarrollo dashboards interactivos</p>
     </td>
     <td align="center" width="250">
-      <h3>🌱 Siempre aprendiendo</h3>
+      <h3>🌱 Siempre Aprendiendo</h3>
       <p>Me sigo nutriendo de información a través de cursos de Udemy o tutoriales de YouTube. Actualmente, estoy aprendiendo backend y realizando proyectos pequeños.</p>
     </td>
   </tr>
