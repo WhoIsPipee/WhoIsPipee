@@ -95,4 +95,4 @@
 
 ---
 
-<p align="center"><i>“Simplicidad y claridad son más difíciles que complejidad. Por eso elijo construir con intención.”</i></p>
+
