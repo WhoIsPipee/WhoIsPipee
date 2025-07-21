@@ -1,6 +1,6 @@
 
 <h1 align="center">🧩 Felipe Nicolas Andrade Vargas </h1>
-<p align="center"><i>Desarrollador Frontend + Automatización con Excel VBA/Macros</i></p>
+<p align="center"><i>Desarrollador fullstack + Automatización con Excel VBA/Macros + Manejo de BD relacionales </i></p>
 
 ---
 
