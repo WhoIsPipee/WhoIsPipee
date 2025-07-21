@@ -24,6 +24,10 @@
       <h3>🌱 Siempre Aprendiendo</h3>
       <p>Me sigo nutriendo de información a través de cursos de Udemy o tutoriales de YouTube. Actualmente, estoy aprendiendo backend y realizando proyectos pequeños.</p>
     </td>
+    <td align="center" width="250">
+      <h3>📦 Manejo de Base de datos </h3>
+      <p> Manejo y domino el área de bases de datos: modelar, crear, gestionar y visualizar bases de datos relacionales con la herramienta MySQL Workbench.</p>
+    </td>
   </tr>
 </table>
 
